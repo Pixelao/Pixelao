@@ -17,4 +17,5 @@
 ![.NET](https://img.shields.io/badge/.NET-690081?style=flat-square&logo=.net)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05133?style=flat-square&logo=git&logoColor=white)
+![LUA](https://img.shields.io/badge/Lua-323330?style=flat-square&logo=lua&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
