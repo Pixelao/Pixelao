@@ -1,8 +1,11 @@
-### Hi there, I'm Adrián Martín
+### Hi there, I'm Adrián Martín _(Pixelao)_
+*Fullstack Developer at [Internacionalweb](https://internacionalweb.com)*  
+*Co-founder of [x3tBot](https://x3tbot.com)*
 
 ![Discord](https://img.shields.io/badge/Pixelao%234768-7289DA?logo=discord&style=flat-square&logoColor=white)
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=github&style=flat-square&logoColor=white)](https://github.com/Pixelao/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:contacto@adrianmr.com)
+
 
 ### Technologies
 ![PHP](https://img.shields.io/badge/PHP-323330?style=flat-square&logo=php&logoColor=white)
@@ -16,6 +19,7 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-3C873A?style=flat-square&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-690081?style=flat-square&logo=.net)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-C3002F?style=flat-square&logo=Matlab&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05133?style=flat-square&logo=git&logoColor=white)
 ![LUA](https://img.shields.io/badge/Lua-323330?style=flat-square&logo=lua&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
