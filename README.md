@@ -35,5 +35,13 @@
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Coding Activity
-<img src="https://github.com/Pixelao/Pixelao/blob/main/images/stat.svg" alt="Coding Activity"/>
+### Coding Activity Languages
+<p align="center">
+  <img width="800" src="https://wakatime.com/share/@Pixelao/591ab6c7-a593-4c17-be16-b00e6ae639f2.svg">
+</p>
+
+### Operating Systems
+<p align="center">
+  <img width="600" src="https://wakatime.com/share/@Pixelao/b32efe46-4ccf-4289-9317-b542ecca84e1.svg">
+</p>
+
