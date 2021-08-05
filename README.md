@@ -1,6 +1,6 @@
 ### Hi there, I'm Adrián Martín _(Pixelao)_
 *Fullstack Developer at [Internacionalweb](https://internacionalweb.com)*  
-*Co-founder of [x3tBot](https://x3tbot.com)*
+*Fullstack & Co-founder of [x3tBot](https://x3tbot.com)*
 
 ![Discord](https://img.shields.io/badge/Pixelao%234768-7289DA?logo=discord&style=flat-square&logoColor=white)
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=github&style=flat-square&logoColor=white)](https://github.com/Pixelao/)
